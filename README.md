@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Andndre.Andndre)
 [![Github](https://img.shields.io/github/followers/Andndre?label=Follow&style=social)](https://github.com/Andndre)
 
-| <a href="https://github.com/Andndre"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andndre&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Agung Andre's github stats" /></a> | <a href="https://github.com/Andndre"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andndre&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Andndre"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andndre&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Agung Andre's github stats" /></a> | <a href="https://github.com/Andndre"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andndre&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 🧰 Languages and Tools
