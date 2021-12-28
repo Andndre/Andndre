@@ -33,8 +33,8 @@
   <img src="https://user-images.githubusercontent.com/81848639/147308071-807d8947-de95-4eb6-af87-abc1d61e4386.png" alt="javascript" width=25></img>
 </a>
 
-<a target="_blank" href="https://www.microsoft.com/en-us/p/windows-terminal-preview/9n8g5rfz9xk3?activetab=pivot:overviewtab">
-  <img src="https://user-images.githubusercontent.com/81848639/147291314-b5c4c2d7-3ae0-4ed2-8acd-e40216a6bb0c.png" alt="windows terminal preview" width=25></img>
+<a target="_blank" href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab">
+  <img src="https://user-images.githubusercontent.com/81848639/147291314-b5c4c2d7-3ae0-4ed2-8acd-e40216a6bb0c.png" alt="windows terminal" width=25></img>
 </a>
 
 <a target="_blank" href="https://www.jetbrains.com/idea/">
