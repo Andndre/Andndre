@@ -6,15 +6,15 @@
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andndre&show_icons=true&count_private=true&theme=monokai"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andndre&show_icons=true&count_private=true&theme=monokai&hide_border=true"
             alt="Andndre's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andndre&theme=monokai"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andndre&theme=monokai&hide_border=true"
             alt="Andndre's Github commit streak">
     </a>
     <a href="#">
-        <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andndre&theme=monokai" />
+        <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andndre&theme=monokai&hide_border=true" />
     </a>
     <a href="#">
         <img width="71%" src="https://activity-graph.herokuapp.com/graph?username=Andndre&theme=synthwave-84">
