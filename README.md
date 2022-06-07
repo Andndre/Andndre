@@ -13,15 +13,15 @@
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andndre&theme=monokai&hide_border=true"
             alt="Andndre's Github commit streak">
     </a>
-    <a href="#">
+<!--     <a href="#">
         <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andndre&theme=monokai&hide_border=true" />
     </a>
     <a href="#">
         <img width="71%" src="https://activity-graph.herokuapp.com/graph?username=Andndre&theme=synthwave-84">
-    </a>
+    </a> -->
 </div>
 
-## 🧰 Languages and Tools
+<!-- ## 🧰 Languages and Tools
 
 <a target="_blank" href="https://git-scm.com/">
 <img src="https://user-images.githubusercontent.com/81848639/147291803-86600cba-4130-423a-885f-b63b3488cd3f.png" alt="git" width=25></img>
@@ -50,9 +50,7 @@
 <a target="_blank" href="https://www.java.com/en/">
   <img src="https://user-images.githubusercontent.com/81848639/147308203-02d85c55-d531-45f3-8986-bb3ee38a62e0.png" alt="java" width=25></img>
 </a>
-<!-- <a target="_blank" href="https://visualstudio.microsoft.com/">
-  <img src="https://user-images.githubusercontent.com/81848639/147290924-d2f175fa-2dd0-432b-b2fc-d1f1c9ff0395.png" alt="vs" width=25></img>
-</a> -->
 <a target="_blank" href="https://www.typescriptlang.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="csharp" width=25></img>
 </a>
+ -->
