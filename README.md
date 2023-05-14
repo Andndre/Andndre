@@ -13,7 +13,7 @@
         <img name="Andndre's Github commit streak" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andndre&theme=monokai&hide_border=true"
             alt="Andndre's Github commit streak">
     </a>
-</div>`
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
