@@ -77,3 +77,9 @@
 <img src="https://raw.githubusercontent.com/Andndre/Andndre/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Andndre/count.svg?"  />
+</div>
+
+###
